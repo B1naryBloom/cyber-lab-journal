@@ -23,6 +23,7 @@ Now go to jwt.io and paste in the token![A screenshot of a computer
 AI-generated content may be
 incorrect.](images/image5.png)
 
+*This is where I got stuck, and I need to research JWT to understand the underlying use cases and exploits.*
 
 
 

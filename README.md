@@ -17,7 +17,7 @@ This repository includes:
 - [August 4, 2025](journal/2025-08-04.md)
 
 ### 💻 DOD Cyber Sentinel Writeups
-- [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat)
+- [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)
 
 ### 🔓 Web Security Academy Writeups
 - [Path Traversal](writeups/web-security-academy/path-traversal.md)

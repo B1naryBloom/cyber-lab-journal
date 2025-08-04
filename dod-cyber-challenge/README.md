@@ -2,6 +2,8 @@
 
 The Cyber Sentinel Skills Challenge is a chance for individuals to showcase their skills, win $15,000 in cash prizes, and kickstart a career with the U.S. Department of Defense (DoD).
 
+_________________________________________________________________________________________________
+
 This was a great way to gauge where I need to improve and see how far I’ve come. I placed **564th** out of **2,155** participants! I still have a long way to go, but I’m proud of the progress.
 
 We covered categories like OSINT, web exploitation, JWTs, forensics, steganography, and geolocation — a solid mix of challenges. I relied on tools like Burp Suite, CyberChef, dig, curl, and spectrogram analysis throughout the process.

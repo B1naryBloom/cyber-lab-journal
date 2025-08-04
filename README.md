@@ -19,6 +19,7 @@ This repository includes:
 ### 💻 DOD Cyber Sentinel Writeups
 - [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)
 - [Café Confidential](dod-cyber-challenge/writeups/Café-Confidential/index.md)
+- [Encoded Evidence](dod-cyber-challenge/writeups/Encoded-Evidence/index.md)
 
 ### 🔓 Web Security Academy Writeups
 - [Path Traversal](writeups/web-security-academy/path-traversal.md)

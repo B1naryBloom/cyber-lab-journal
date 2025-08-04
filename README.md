@@ -48,4 +48,4 @@ This journal is a space for me to:
 ---
 
 > 📌 Connect with me on [LinkedIn](https://linkedin.com/in/essence-d)  
-> 🌐 View more on [github.com/YOUR-USERNAME](https://github.com/essenced83)
+> 🌐 View more on [github.com/essence83](https://github.com/essenced83)

@@ -41,10 +41,11 @@ Now save the file and try visiting the website:
 ![A screenshot of a computer AI-generated content may be
 incorrect.](images/image8.png)
 
-Explore the website to find the flag! *(hint, it's in at the bottom)*
+Explore the website to find the flag! *(hint, it's at the bottom)*
 
 ![A screenshot of a computer AI-generated content may be
 incorrect.](images/image9.png)
 
 Flag: C1{vH0st_S4n_M4g1c_R3ve4l3d}
+
 

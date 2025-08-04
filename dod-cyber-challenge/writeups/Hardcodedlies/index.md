@@ -29,9 +29,10 @@ And use the strings command to get the flag!
 ![A screen shot of a computer AI-generated content may be
 incorrect.](images/image6.png)
 
-*Initially I used cat on the file but eventually gathered myself!*
+*Initially I used cat on the file but eventually gathered myself!* 🤣
 
 ![A screenshot of a computer screen AI-generated content may be
 incorrect.](images/image7.png)
+
 
 

@@ -45,8 +45,7 @@ If you click this first link, you will get taken to the website that has
 the address, enter it according to the CTF parameters.
 
 ![A close up of a cake AI-generated content may be
-incorrect.](D:\Desktop\DOD CYBER WRITEUPS\Café-Confidential\images/media/image8.png){width="6.5in"
-height="4.045833333333333in"}
+incorrect.](images/image8.png)
 
 How I approached this task was I first got the image that worked, and
 then reverse image searched on that image. ![Harrods with many windows
@@ -58,3 +57,4 @@ file format, I then reverse image searched on that file as well and
 found the café!
 
 Flag: C1{Parker\'s_Lowndes}
+

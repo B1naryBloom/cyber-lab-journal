@@ -10,7 +10,7 @@ We covered categories like OSINT, web exploitation, JWTs, forensics, steganograp
 
 _________________________________________________________________________________________________
 
-- [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)
+- [Behind The Beat](writeups/Behind-the-beat/index.md)
 - [Café Confidential](dod-cyber-challenge/writeups/Café-Confidential/index.md)
 - [Encoded Evidence](dod-cyber-challenge/writeups/Encoded-Evidence/index.md)
 - [Field Reports Mayhem](dod-cyber-challenge/writeups/Field-Reports-Mayhem/index.md)

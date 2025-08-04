@@ -1,4 +1,4 @@
-None Shall Pass \*received help from ChatGPT\*
+## [INCOMPLETE - CTF CLOSED]None Shall Pass \*received help from ChatGPT\*
 
 Go to the website and enter the credentials:
 
@@ -21,4 +21,5 @@ incorrect.](images/image4.png)
 Now go to jwt.io and paste in the token![A screenshot of a computer
 AI-generated content may be
 incorrect.](images/image5.png)
+
 

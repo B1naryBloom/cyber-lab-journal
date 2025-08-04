@@ -28,16 +28,18 @@ This repository includes:
 - [Packet Whisperer](dod-cyber-challenge/writeups/Packet-Whisperer/index.md)
 - [Problems in North TORbia](dod-cyber-challenge/writeups/Problems-in-North-TORbia/index.md)
 
-### 🔓 Web Security Academy Writeups
-- [Path Traversal](writeups/web-security-academy/path-traversal.md)
-- [LLM Injection](writeups/web-security-academy/llm-injection.md)
+### 🖥️ DVWA *Writeups In Progress*
+- [Command Injection](writeups/DVWA/command-injection.md)
 
-### 💣 Metasploitable2 Writeups
+### 💣 Metasploitable2 *Writeups In Progress*
 - [vsftpd 2.3.4 Backdoor](writeups/metasploitable2/vsftpd-backdoor.md)
 - [Apache Tomcat Manager Deploy](writeups/metasploitable2/tomcat-manager.md)
 
-### 🖥️ DVWA Writeups
-- [Command Injection](writeups/DVWA/command-injection.md)
+### 🔓 Web Security Academy *Writeups In Progress*
+- [Path Traversal](writeups/web-security-academy/path-traversal.md)
+- [Web LLM Attacks](writeups/web-security-academy/web-llm-attacks.md)
+- [SQL Injection](writeups/web-security-academy/sql.md)
+- [API](writeups/web-security-academy/api.md)
 
 ---
 

@@ -9,7 +9,7 @@ Ensure you are in the correct terminal
 ![A screen shot of a computer program AI-generated content may be
 incorrect.](images/image2.png)
 
-The file is read, this means that you need to change the permissions.
+The file is red, this means that you need to change the permissions.
 
 ![A green text on a black background AI-generated content may be
 incorrect.](images/image3.png)
@@ -33,4 +33,5 @@ incorrect.](images/image6.png)
 
 ![A screenshot of a computer screen AI-generated content may be
 incorrect.](images/image7.png)
+
 

@@ -16,7 +16,7 @@ This repository includes:
 - [August 3, 2025](journal/2025-08-03.md)
 - [August 4, 2025](journal/2025-08-04.md)
 
-### 💻 DOD Cyber Sentinel Writeups
+### 💻 [DOD Cyber Sentinel](dod-cyber-challenge) Writeups
 - [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)
 - [Café Confidential](dod-cyber-challenge/writeups/Café-Confidential/index.md)
 - [Encoded Evidence](dod-cyber-challenge/writeups/Encoded-Evidence/index.md)

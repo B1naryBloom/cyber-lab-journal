@@ -1,6 +1,7 @@
 Hardcodedlies
 
-Download document![A screenshot of a computer error AI-generated content
+Download document!
+[A screenshot of a computer error AI-generated content
 may be
 incorrect.](images/image1.png)
 

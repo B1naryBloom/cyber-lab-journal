@@ -3,7 +3,7 @@
 Welcome to my personal cybersecurity learning journal and lab writeup collection.
 
 This repository includes:
-- ✅ Vulnerability and exploit walkthroughs from Web Security Academy, DVWA, Metasploitable2, and more
+- ✅ Vulnerability and exploit walkthroughs from Web Security Academy, DVWA, Metasploitable2, TryHackMe, and CTF's
 - 🧠 Daily journal entries reflecting on what I studied, tools used, and lessons learned
 - 💻 Tools used in my home lab setup (Kali Linux, Burp Suite, GoAccess, Apache2, etc.)
 

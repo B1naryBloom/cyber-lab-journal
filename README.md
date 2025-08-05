@@ -15,6 +15,7 @@ This repository includes:
 - [August 2, 2025](journal/2025-08-02.md)
 - [August 3, 2025](journal/2025-08-03.md)
 - [August 4, 2025](journal/2025-08-04.md)
+- [August 5, 2025](journal/2025-08-04.md)
 
 ### 💻 [DOD Cyber Sentinel](dod-cyber-challenge) Writeups
 - [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)

@@ -41,7 +41,7 @@ This repository includes:
 - [Path Traversal](writeups/web-security-academy/path-traversal.md)
 - [Web LLM Attacks](writeups/web-security-academy/web-llm-attacks.md)
 - [SQL Injection](writeups/web-security-academy/sql.md)
-- [API](writeups/web-security-academy/api.md)
+- [API](web-security-academy/writeups/api-testing/index.md)
 
 ---
 

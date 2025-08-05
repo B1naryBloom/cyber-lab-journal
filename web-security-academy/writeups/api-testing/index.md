@@ -20,8 +20,7 @@ Burp's HTTP History tab, I was able to identify a few API endpoints that
 looked interesting. What also stood out were the HTTP Request methods:
 
 ![A screenshot of a computer AI-generated content may be
-incorrect.](C:\Users\DOUGLAS\Documents\web-security-academy\Labs\API Testing\api-exploit-using-documentation\images/media/image1.png){width="6.5in"
-height="2.3291666666666666in"}
+incorrect.](C:\Users\DOUGLAS\Documents\web-security-academy\Labs\API Testing\api-exploit-using-documentation\images/media/image1.png)
 
 After logging in I noticed some interesting parameters in the
 request:![A screenshot of a login screen AI-generated content may be
@@ -64,3 +63,4 @@ height="3.936809930008749in"}
 Carlos has been deleted (sorry Carlos!) and we have completed the lab!
 But we also see in the text box that we could have deleted his account
 by also utilizing a curl command!
+

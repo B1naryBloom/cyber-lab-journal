@@ -32,7 +32,7 @@ This repository includes:
 
 ---
 
-### 🔓 Web Security Academy *Writeups In Progress*
+### 🔓 Web Security Academy 
 - [API](web-security-academy/writeups/api-testing/index.md)
 
 ---

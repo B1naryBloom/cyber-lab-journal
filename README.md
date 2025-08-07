@@ -11,13 +11,8 @@ This repository includes:
 
 ## 📁 Table of Contents
 
-### 📝 Journal Entries
-- [August 2, 2025](journal/2025-08-02.md)
-- [August 3, 2025](journal/2025-08-03.md)
-- [August 4, 2025](journal/2025-08-04.md)
-- [August 5, 2025](journal/2025-08-05.md)
-- [August 6, 2025](journal/2025-08-06.md)
-
+### 🔓 Web Security Academy 
+- [API Lab: Exploiting an API endpoint using Documentation](web-security-academy/writeups/api-testing/index.md)
 
 ### 💻 [DOD Cyber Sentinel](dod-cyber-challenge) Writeups
 - [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)
@@ -31,9 +26,12 @@ This repository includes:
 - [Packet Whisperer](dod-cyber-challenge/writeups/Packet-Whisperer/index.md)
 - [Problems in North TORbia](dod-cyber-challenge/writeups/Problems-in-North-TORbia/index.md)
 
-
-### 🔓 Web Security Academy 
-- [API Lab: Exploiting an API endpoint using Documentation](web-security-academy/writeups/api-testing/index.md)
+  ### 📝 Journal Entries
+- [August 2, 2025](journal/2025-08-02.md)
+- [August 3, 2025](journal/2025-08-03.md)
+- [August 4, 2025](journal/2025-08-04.md)
+- [August 5, 2025](journal/2025-08-05.md)
+- [August 6, 2025](journal/2025-08-06.md)
 
 ---
 

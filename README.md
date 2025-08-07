@@ -9,7 +9,7 @@ This repository includes:
 
 ---
 
-## 📁 Table of Contents
+### 📁 Table of Contents
 
 ### 🔓 Web Security Academy 
 - [API Lab: Exploiting an API endpoint using Documentation](web-security-academy/writeups/api-testing/index.md)

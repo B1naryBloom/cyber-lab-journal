@@ -33,7 +33,7 @@ This repository includes:
 ---
 
 ### 🔓 Web Security Academy 
-- [API](web-security-academy/writeups/api-testing/index.md)
+- [API Lab: Exploiting an API endpoint using Documentation](web-security-academy/writeups/api-testing/index.md)
 
 ---
 

@@ -13,7 +13,7 @@ This repository includes:
 
 ### 🔓 Web Security Academy 
 - [API Lab: Exploiting an API endpoint using Documentation](web-security-academy/writeups/api-testing/index.md)
-- [Path Traversal Mystery Lab](web-security-academy/writeups/mystery-labs/writeups/Path Traversal Mystery Lab.pdf)
+- [Path Traversal Mystery Lab](https://github.com/essenced83/cyber-lab-journal/blob/2d65b95683340e2c69801a71687bd171aec26caf/web-security-academy/writeups/path-traversal/labs/Path%20Traversal%20Mystery%20Lab.pdf)
 
 ### 💻 [DOD Cyber Sentinel](dod-cyber-challenge) Writeups
 - [Behind The Beat](dod-cyber-challenge/writeups/Behind-the-beat/index.md)

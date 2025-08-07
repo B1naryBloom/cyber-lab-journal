@@ -31,7 +31,6 @@ This repository includes:
 - [Packet Whisperer](dod-cyber-challenge/writeups/Packet-Whisperer/index.md)
 - [Problems in North TORbia](dod-cyber-challenge/writeups/Problems-in-North-TORbia/index.md)
 
----
 
 ### 🔓 Web Security Academy 
 - [API Lab: Exploiting an API endpoint using Documentation](web-security-academy/writeups/api-testing/index.md)

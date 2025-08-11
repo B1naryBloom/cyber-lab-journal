@@ -33,6 +33,7 @@ This repository includes:
 - [August 4, 2025](journal/2025-08-04.md)
 - [August 5, 2025](journal/2025-08-05.md)
 - [August 6, 2025](journal/2025-08-06.md)
+- [August 7, 2025](journal/2025-08-07.md)
 
 ---
 
